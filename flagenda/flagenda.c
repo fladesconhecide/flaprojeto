@@ -35,8 +35,6 @@ void criar_inicio(flalista *lista, flacontatos dado){
     lista->inicio = novo;
 }
 
-
-
 void fladiciona(){
-
+    
 }

@@ -3,8 +3,7 @@
 
 void menu();
 
-int main (int argc, char *argv[])
-{
+int main (void){
   menu();
   exit(0);
   return 0;
