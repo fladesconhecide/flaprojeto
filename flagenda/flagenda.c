@@ -36,5 +36,7 @@ void criar_inicio(flalista *lista, flacontatos dado){
 }
 
 void fladiciona(){
-    
+  if (lista.inicio == NULL){
+    criar_inicio();
+  } 
 }
